@@ -6,9 +6,6 @@ const Hero = () => (
     <div className="hero-overlay bg-opacity-60"></div>
     <div className="text-center hero-content text-white">
       <div className="max-w-md">
-        <h1 className="mb-5 text-5xl font-bold text-red-600">
-          Elegant Collision
-        </h1>
         <p className="mb-5">
           Exceptional Customer Service and Outstanding Auto Body Repairs.
         </p>

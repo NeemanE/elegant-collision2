@@ -14,14 +14,15 @@ export default function Home() {
           alt="I Car Certified Logo"
           className="mx-auto mb-5"
         />
-        <h2 className="text-4xl animate-flash leading-tight">
-          JAGUAR REPAIR FACILITY
-        </h2>
-        <img
+         <img
           src="/images/ftype.avif"
           alt="Jaguar"
           className="mx-auto my-5 max-w-[300px] sm:max-w-[400px]"
         />
+        <h2 className="text-4xl animate-flash leading-tight">
+          JAGUAR REPAIR FACILITY
+        </h2>
+       
       </section>
       <Footer />
     </>
